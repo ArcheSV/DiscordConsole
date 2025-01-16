@@ -78,3 +78,6 @@ El plugin es compatible con Minecraft 1.8 hasta 1.21.4
 1. Crea un bot en el [portal de desarrolladores de Discord](https://discord.com/developers/applications).
 2. Copia el token del bot y pégalo en el archivo `config.yml`.
 3. Habilita el modo de desarrollador en Discord y haz clic derecho en el canal deseado para copiar su ID.
+
+### **¿Que usaste para hacer el plugin?**
+Eclipse IDE.
