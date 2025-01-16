@@ -1,0 +1,7 @@
+name: DiscordConsolePlugin
+main: com.plugin.discordconsole.DiscordConsolePlugin
+version: 1.0-SNAPSHOT
+description: Plugin para conectar la consola del servidor con Discord
+author: ArcheSV
+
+api-version: 1.13
